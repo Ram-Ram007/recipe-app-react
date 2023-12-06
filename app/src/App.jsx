@@ -23,7 +23,7 @@ function App() {
           </button>
           <button>
             <a href="#home" onClick={() => setShowAddRecipe(false)}>
-              Home
+              Homes
             </a>
           </button>
         </ul>
